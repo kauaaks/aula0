@@ -1,0 +1,4 @@
+- abra o emulador
+- crie o app e abra no VScode com comandos no cmd
+- lance no github/git 
+DETALHES NO CADERNO...
